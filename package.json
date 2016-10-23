@@ -1,0 +1,22 @@
+{
+    "name": "CiapreFinal",
+    "displayName": "CiapreFinal",
+    "description": "CiapreFinal",
+    "version": "0.0.1",
+    "publisher": "OrangeInce",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CiapreFinal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CiapreFinal.tmTheme"
+            }
+        ]
+    }
+}
